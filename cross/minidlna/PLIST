@@ -1,0 +1,14 @@
+bin:sbin/minidlnad
+rsc:share/locale/da/LC_MESSAGES/minidlna.mo
+rsc:share/locale/de/LC_MESSAGES/minidlna.mo
+rsc:share/locale/es/LC_MESSAGES/minidlna.mo
+rsc:share/locale/fr/LC_MESSAGES/minidlna.mo
+rsc:share/locale/it/LC_MESSAGES/minidlna.mo
+rsc:share/locale/ja/LC_MESSAGES/minidlna.mo
+rsc:share/locale/nb/LC_MESSAGES/minidlna.mo
+rsc:share/locale/nl/LC_MESSAGES/minidlna.mo
+rsc:share/locale/pl/LC_MESSAGES/minidlna.mo
+rsc:share/locale/ru/LC_MESSAGES/minidlna.mo
+rsc:share/locale/sl/LC_MESSAGES/minidlna.mo
+rsc:share/locale/sv/LC_MESSAGES/minidlna.mo
+etc:etc/minidlna.conf
